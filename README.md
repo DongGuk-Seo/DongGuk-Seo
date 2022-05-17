@@ -1,5 +1,6 @@
+Introduction 😎
 - 👋 Hi, I’m DongGuk-Seo
-- 👀 I’m interested in Data Analyst/Data Science/A.I And Back-End Skills
+- 👀 I’m interested in Data Analyst/Data Science/A.I And Back-End Skills 
 - 🌱 I'm currently learning about data analyst skills and some Back-End skills by entering an academy.
 
 My skills 🤖
@@ -7,7 +8,7 @@ My skills 🤖
 - MySQL
 - Javascript
 
-For now, trying to make other skills...
+For now, I'm seriously trying to make other skills...🤯
 
 
 <!---
