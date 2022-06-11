@@ -7,6 +7,8 @@ My skills 🤖
 - Python (with some libraries like numpy, pandas, matplotlib, seaborn and sklearn)
 - MySQL
 - Javascript
+- Node.js
+- HTML/CSS
 
 For now, I'm seriously trying to make other skills...🤯
 
