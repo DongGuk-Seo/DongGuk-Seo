@@ -4,9 +4,11 @@ Introduction 😎
 - 🌱 I'm currently learning about data analyst skills and some Back-End skills by entering an academy.
 
 My skills 🤖
-- Python (with some libraries like numpy, pandas, matplotlib, seaborn and sklearn)
+- Python
+ * Numpy, Pandas, Matplotlib, Seaborn
+ * Tensorflow, Pytorch
 - MySQL
-- Javascript
+- Javascript(Vanila)
 - Node.js
 - HTML/CSS
 
