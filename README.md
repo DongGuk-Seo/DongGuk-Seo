@@ -1,4 +1,6 @@
 Introduction 😎
 - 👋 Hi, I’m DongGuk-Seo
-- 👀 I’m interested in Data Analyst/Data Scientist/MLEngineer and Back-End Dev'
-- 🌱 I'm currently learning about data analyst skills and some Back-End skills by entering an academy.
+- 🐢 Learning Some skills about ML-engineer / Back-end-engineer
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=failnxid)](https://solved.ac/failnxid)
