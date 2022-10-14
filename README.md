@@ -10,9 +10,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Github&fontSize=30&color=gradient)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongGuk-Seo&show_icons=true&theme=highcontrast)](https://github.com/DongGuk-Seo/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontcolor=gradient&height=200&section=header&text=Repos&fontSize=30&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Repos&fontSize=30&color=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongGuk-Seo&layout=compact)](https://github.com/DongGuk-Seo/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontcolor=gradient&height=200&section=header&text=Skills&fontSize=30&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Skills&fontSize=30&color=gradient)
 
 </div>
