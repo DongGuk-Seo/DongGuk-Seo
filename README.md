@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Skills&fontSize=30&color=gradient)
   
-  <Strong>Programming / Ohters : <br><br>
+  <Strong>Programming / Others : <br><br>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=brown"/>
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
